@@ -467,7 +467,7 @@
   {
     "type": "item_action",
     "id": "ELEC_CHAINSAW_OFF",
-    "name": { "str": "Turn on" }
+    "name": { "str": "Use as a weapon (consumes 125 charge + 10 charge per minute use)" }
   },
   {
     "type": "item_action",
